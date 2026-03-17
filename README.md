@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently finished working on my AI powered portfolio, leave a comment and rating: https://salman-football.vercel.app<br>Eager to team up on AI-driven projects, especially for hackathons or open-source initiatives or discussion around tech! <br>I'm always looking to learn from experienced developers in the AI and cloud space. I'd appreciate any advice on improving Machine Learning skills and finding my dream job!<br>I'm diving deep into advanced cloud architectures on AWS combing it with AI. I'm also experimenting with LLM.<br>Huge sports fan! I'm always happy to connect with fellow tech and sports enthusiasts in the DMV area. Let's chat!!!
+<br>Eager to team up on AI-driven projects, especially for hackathons or open-source initiatives or discussion around tech! <br>I'm always looking to learn from experienced developers in the AI and cloud space. I'd appreciate any advice on improving Machine Learning skills.<br>I'm diving deep into advanced cloud architectures on AWS combing it with AI. I'm also experimenting with LLM.<br>Huge sports fan! I'm always happy to connect with fellow tech and sports enthusiasts in the DMV area. Let's chat!!!
 
 
 ## 🌐 Socials:
